@@ -7,7 +7,9 @@ I created this bookmarklet to make it easier for myself to switch between differ
 
 I hope you find it useful, and welcome comments and contributions.
 
-All the best,
+If you chose to make your own versions, or just make updates to this, then please do share your work :-)
+
+All the best,  
 Peter
 
 ## How to add it
@@ -19,8 +21,12 @@ To add the bookmarklet to your browser, drag the following link to the bookmark 
 
 ### 1. Click the bookmarklet link
 
-### 2. Enter desired profile and enviroment in the alert box
-![TiQ Switch - Alert Box](http://macdown.uranusjr.com/static/images/logo-160.png)
+### 2. Hopefully see the following poup
+![TiQ Switch - Popup](https://github.com/pmeyerdk/tiq-switch/blob/master/docs/tiq-switch-popup.png?raw=true)
 
-### 3. Click the "OK" button to switch profile/environment
-![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
+### 3. Enter desired profile and enviroment in the popup
+
+### 4. Click the "OK" button to switch profile/environment
+
+### 5. You see the following error message, if an error occured
+![TiQ Switch - Error](https://github.com/pmeyerdk/tiq-switch/blob/master/docs/tiq-switch-error.png?raw=true)
