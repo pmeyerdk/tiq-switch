@@ -1,11 +1,17 @@
 
 
-# Tealium iQ Switch
+# TiQ Switch
 A minimalistic profile and environment switcher bookmarklet for Tealium iQ.
 
 I created this bookmarklet to make it easier for myself to switch between different environment and profiles, while working with Tealium iQ implementation and debugging.
 
-I hope you find it useful, and welcome comments and contributions.
+Tealium already made a profile/environment switcher.
+But since I encountered issues with that one, I chose to create this very minimalistic alternative for use by myself, and the team I work in.
+
+To get some open sharing of Tealium iQ helper tools rolling, I now make it publicly available.
+
+I hope you find it useful, and welcome comments and contributions.  
+Information about other helper tools you might know of, will also be greatly appreciated.
 
 If you chose to make your own versions, or just make updates to this one, then please do share your work :-)
 
