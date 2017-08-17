@@ -24,6 +24,9 @@ If you know how to get the link working, then please let me know*
 
 **1. Click the bookmarklet link**
 
+**2. If Tealium iQ isn't found implemented on the page, you see the following message**
+![TiQ Switch - TiQ not found](https://github.com/pmeyerdk/tiq-switch/blob/master/docs/tiq-switch-notfound.png?raw=true)
+
 **2. Hopefully see the following poup**  
 ![TiQ Switch - Popup](https://github.com/pmeyerdk/tiq-switch/blob/master/docs/tiq-switch-popup.png?raw=true)
 
@@ -31,6 +34,8 @@ If you know how to get the link working, then please let me know*
 
 **4. Click the "OK" button to switch profile/environment**
 
-**5. If an error occured, you see the following error message**  
+**5. If you entered an invalid format, you see the following error message**  
 ![TiQ Switch - Error](https://github.com/pmeyerdk/tiq-switch/blob/master/docs/tiq-switch-error.png?raw=true)
+
+**6. If no error occured, the page reloads using the newly entered Tealium iQ profile/environment combination**
 
